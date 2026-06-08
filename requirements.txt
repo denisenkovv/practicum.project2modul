@@ -1,0 +1,6 @@
+#Используемые библиотеки в проекте
+pandas
+matplotlib.pyplot
+seaborn
+sqlalchemy
+phik
